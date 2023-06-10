@@ -4,4 +4,4 @@ I've been working on this project using HTML, CSS, and JavaScript, and I'm proud
 
 
 ![logo](https://github.com/Ashish-github05/Disney_plus_hotstar_clone/blob/main/Disney%20hotstar.png)
-![logo]( )
+![logo](https://github.com/Ashish-github05/Disney_plus_hotstar_clone/blob/main/Disney.png)
